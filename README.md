@@ -37,4 +37,4 @@ To start the Robot - will execute a linear tool path required for milling applic
 
 __Please contact me if there are any issues.__
 __Link to this repository if u made any improvements.__
-__Don`t use this package for any payed tutorial about ROS2 Humble - it is meant to be easy to use without any instruction.__
+__Dont use this package for any payed tutorial about ROS2 Humble - it is meant to be easy to use without any instruction.__
