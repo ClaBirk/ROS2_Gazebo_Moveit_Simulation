@@ -24,7 +24,8 @@
 `ros2 launch ros_sim gazebo_moveit.launch.py`
 
 Result: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hVgP-JQOac8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/hVgP-JQOac8/maxresdefault.jpg)](https://youtu.be/hVgP-JQOac8)
+
 
 The specified lauch will start the Gazebo and Moveit Simulation.
 In addition the packages contain several other launch files to launch different parts of the whole simulation (discribed above).
