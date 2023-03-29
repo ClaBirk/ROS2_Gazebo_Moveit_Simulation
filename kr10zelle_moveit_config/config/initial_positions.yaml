@@ -1,0 +1,9 @@
+# Default initial positions for KR_10's ros2_control fake system
+
+initial_positions:
+  joint_1: -0.8028
+  joint_2: -0.6807
+  joint_3: 1.221
+  joint_4: 0.4887
+  joint_5: 0.2967
+  joint_6: -0.6981
