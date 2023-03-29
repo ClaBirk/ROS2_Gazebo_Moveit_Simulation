@@ -24,7 +24,7 @@
 `ros2 launch ros_sim gazebo_moveit.launch.py`
 
 Result: 
-[![Watch the video](https://img.youtube.com/vi/hVgP-JQOac8/maxresdefault.jpg)](https://youtu.be/hVgP-JQOac8)
+[![Watch the video](https://img.youtube.com/vi/hVgP-JQOac8/hqdefault.jpg)](https://youtu.be/hVgP-JQOac8)
 
 
 The specified lauch will start the Gazebo and Moveit Simulation.
