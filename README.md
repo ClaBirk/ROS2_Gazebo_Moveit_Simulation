@@ -23,6 +23,8 @@
 ## Launch 
 `ros2 launch ros_sim gazebo_moveit.launch.py`
 
+Result: 
+
 The specified lauch will start the Gazebo and Moveit Simulation.
 In addition the packages contain several other launch files to launch different parts of the whole simulation (discribed above).
 
@@ -35,6 +37,7 @@ To start the Robot - will execute a linear tool path required for milling applic
 3. Change the launch file in ros_sim package accordingly
 4. ros_milling_cpp - change the Group name to start planning
 
-## __Please contact me if there are any issues.__
-## __Link to this repository if u made any improvements.__
-## __Dont use this package for any payed tutorial about ROS2 Humble - it is meant to be easy to use without any instruction.__
+# Usage:
+__Please contact me if there are any issues.
+__Link to this repository if u made any improvements.__
+__Dont use this package for any payed tutorial about ROS2 Humble - it is meant to be easy to use without any instruction.__
