@@ -29,7 +29,7 @@ In addition the packages contain several other launch files to launch different 
 To start the Robot - will execute a linear tool path required for milling application:
 `ros2 run ros_milling_cpp ros_milling_cpp_full`
 
-[![Watch the video](https://img.youtube.com/vi/v=hVgP-JQOac8/hqdefault.jpg)](https://youtu.be/v=hVgP-JQOac8)
+[![Watch the video](https://img.youtube.com/vi/hVgP-JQOac8/hqdefault.jpg)](https://youtu.be/hVgP-JQOac8)
 
 
 # Want to implement control for your own Robot?
